@@ -1,4 +1,4 @@
-# Doctor Hunt Project - Java & Groovy API
+# Doctor Hunt Project - DJANGO REST FRAMEWORK
 
 This project integrates **Java** and **Groovy** to develop the **Doctor Hunt Project APIs**, a system where patients can make appointments with doctors, maintain medical records, and receive diagnosis offers. It includes features like user authentication, doctor management, and appointment scheduling.
 
@@ -31,28 +31,28 @@ This project includes:
 
 1. Install Python and Django
 Ensure you have Python installed on your system. You can check the version with:
-python --version
+## python --version
 If Django is not installed, install it using:
-pip install django
+## pip install django
 
 2. Create a Django Project
 To start a new Django project, use the following command:
-django-admin startproject projectname
+## django-admin startproject projectname
 Navigate into the project directory:
-cd projectname
+## cd projectname
 
 3. Install Django REST Framework (DRF)
 Next, install Django REST Framework by running:
-pip install djangorestframework
+## pip install djangorestframework
 
 4. Add DRF to INSTALLED_APPS
 Once DRF is installed, open the settings.py file inside your project folder and add 'rest_framework' to the INSTALLED_APPS list.
 Example:
-INSTALLED_APPS = [ 'rest_framework', ]
+## INSTALLED_APPS = [ 'rest_framework', ]
 
 5. Install Django CORS Headers (Optional)
 If you want to allow Cross-Origin Resource Sharing (CORS) for your API, install django-cors-headers:
-pip install django-cors-headers
+## pip install django-cors-headers
 Then, add it to INSTALLED_APPS and MIDDLEWARE in settings.py.
 Example:
 INSTALLED_APPS = [ 'corsheaders', ]
@@ -60,7 +60,7 @@ MIDDLEWARE = [ 'corsheaders.middleware.CorsMiddleware', ]
 
 6. Create an App in Your Project
 Create an app for your API:
-python manage.py startapp api
+## python manage.py startapp api
 
 7. Define a Model (Optional)
 In the api/models.py file, define your models. For example, to create an Item model:
@@ -97,9 +97,9 @@ urlpatterns = [ path('', include(router.urls)), ]
 Then, include these URLs in the main urls.py of your project:
 urlpatterns = [ path('admin/', admin.site.urls), path('api/', include('api.urls')), ]
 
-12. Run the Server
+## 12. Run the Server
 Now, you can run the development server to test your setup:
-python manage.py runserver
+## python manage.py runserver
 Your API will be accessible at http://127.0.0.1:8000/api/items/.
 
 13. Requirements File
@@ -109,11 +109,11 @@ This will list all installed packages like djangorestframework and django in the
 
 Example requirements.txt
 Here’s an example of a requirements.txt file:
-Django==4.1.0
-djangorestframework==3.14.0
-django-cors-headers==3.10.0
+## Django==4.1.0
+## djangorestframework==3.14.0
+## django-cors-headers==3.10.0
 You can install the dependencies on another system using:
-pip install -r requirements.txt
+## pip install -r requirements.txt
 ## Project Structure
 
 ```
