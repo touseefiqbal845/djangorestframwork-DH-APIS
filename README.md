@@ -28,7 +28,7 @@ This project includes:
 
 
 ## Installation
-
+```
 1. Install Python and Django
 Ensure you have Python installed on your system. You can check the version with:
 ## python --version
@@ -114,6 +114,7 @@ Here’s an example of a requirements.txt file:
 ## django-cors-headers==3.10.0
 You can install the dependencies on another system using:
 ## pip install -r requirements.txt
+```
 ## Project Structure
 
 ```
