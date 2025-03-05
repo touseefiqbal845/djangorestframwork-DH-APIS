@@ -1,0 +1,1691 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "doctorhunt_app.models.patient",
+        "description": "doctorhunt_app.models.patient",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.patient",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "doctorhunt_app.models.patient",
+        "description": "doctorhunt_app.models.patient",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.patient",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "doctorhunt_app.models.patient",
+        "description": "doctorhunt_app.models.patient",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.patient",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "doctorhunt_app.models.patient",
+        "description": "doctorhunt_app.models.patient",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.patient",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "binascii",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binascii",
+        "description": "binascii",
+        "detail": "binascii",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "doctorhunt_app.models.appointment",
+        "description": "doctorhunt_app.models.appointment",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.appointment",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "doctorhunt_app.models.appointment",
+        "description": "doctorhunt_app.models.appointment",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.appointment",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "importPath": "doctorhunt_app.models.appointment",
+        "description": "doctorhunt_app.models.appointment",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.appointment",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorSerializer",
+        "importPath": "doctorhunt_app.serializers.doctor_serializer",
+        "description": "doctorhunt_app.serializers.doctor_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.doctor_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorSerializer",
+        "importPath": "doctorhunt_app.serializers.doctor_serializer",
+        "description": "doctorhunt_app.serializers.doctor_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.doctor_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorSerializer",
+        "importPath": "doctorhunt_app.serializers.doctor_serializer",
+        "description": "doctorhunt_app.serializers.doctor_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.doctor_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "PatientSerializer",
+        "importPath": "doctorhunt_app.serializers.patient_serializer",
+        "description": "doctorhunt_app.serializers.patient_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.patient_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "PatientSerializer",
+        "importPath": "doctorhunt_app.serializers.patient_serializer",
+        "description": "doctorhunt_app.serializers.patient_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.patient_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOffer",
+        "importPath": "doctorhunt_app.models.diagnosis_offer",
+        "description": "doctorhunt_app.models.diagnosis_offer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.diagnosis_offer",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOffer",
+        "importPath": "doctorhunt_app.models.diagnosis_offer",
+        "description": "doctorhunt_app.models.diagnosis_offer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.diagnosis_offer",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "doctorhunt_app.models.doctor",
+        "description": "doctorhunt_app.models.doctor",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.doctor",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "doctorhunt_app.models.doctor",
+        "description": "doctorhunt_app.models.doctor",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.doctor",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "doctorhunt_app.models.doctor",
+        "description": "doctorhunt_app.models.doctor",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.doctor",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "doctorhunt_app.models.doctor",
+        "description": "doctorhunt_app.models.doctor",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.doctor",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "importPath": "doctorhunt_app.models.doctor",
+        "description": "doctorhunt_app.models.doctor",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.doctor",
+        "documentation": {}
+    },
+    {
+        "label": "apps",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecord",
+        "importPath": "doctorhunt_app.models.medical_record",
+        "description": "doctorhunt_app.models.medical_record",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.medical_record",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecord",
+        "importPath": "doctorhunt_app.models.medical_record",
+        "description": "doctorhunt_app.models.medical_record",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models.medical_record",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordSerializer",
+        "importPath": "doctorhunt_app.serializers.medical_record_serializer",
+        "description": "doctorhunt_app.serializers.medical_record_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.medical_record_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordSerializer",
+        "importPath": "doctorhunt_app.serializers.medical_record_serializer",
+        "description": "doctorhunt_app.serializers.medical_record_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.medical_record_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentListCreateView",
+        "importPath": "doctorhunt_app.views.appointment_views",
+        "description": "doctorhunt_app.views.appointment_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.appointment_views",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentDetailView",
+        "importPath": "doctorhunt_app.views.appointment_views",
+        "description": "doctorhunt_app.views.appointment_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.appointment_views",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOfferListCreateView",
+        "importPath": "doctorhunt_app.views.diagnosis_offer_views",
+        "description": "doctorhunt_app.views.diagnosis_offer_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.diagnosis_offer_views",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOfferDetailView",
+        "importPath": "doctorhunt_app.views.diagnosis_offer_views",
+        "description": "doctorhunt_app.views.diagnosis_offer_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.diagnosis_offer_views",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_list",
+        "importPath": "doctorhunt_app.views.doctor_frontend",
+        "description": "doctorhunt_app.views.doctor_frontend",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.doctor_frontend",
+        "documentation": {}
+    },
+    {
+        "label": "api_doctor_detail",
+        "importPath": "doctorhunt_app.views.doctor_frontend",
+        "description": "doctorhunt_app.views.doctor_frontend",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.doctor_frontend",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorViewSet",
+        "importPath": "doctorhunt_app.views.doctor_views",
+        "description": "doctorhunt_app.views.doctor_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.doctor_views",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordListCreateView",
+        "importPath": "doctorhunt_app.views.medical_record_views",
+        "description": "doctorhunt_app.views.medical_record_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.medical_record_views",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordDetailView",
+        "importPath": "doctorhunt_app.views.medical_record_views",
+        "description": "doctorhunt_app.views.medical_record_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.medical_record_views",
+        "documentation": {}
+    },
+    {
+        "label": "PatientListCreateView",
+        "importPath": "doctorhunt_app.views.patient_views",
+        "description": "doctorhunt_app.views.patient_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.patient_views",
+        "documentation": {}
+    },
+    {
+        "label": "PatientDetailView",
+        "importPath": "doctorhunt_app.views.patient_views",
+        "description": "doctorhunt_app.views.patient_views",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.patient_views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordRequestView",
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordView",
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Count",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentSerializer",
+        "importPath": "doctorhunt_app.serializers.appointment_serializer",
+        "description": "doctorhunt_app.serializers.appointment_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.appointment_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOfferSerializer",
+        "importPath": "doctorhunt_app.serializers.diagnosis_offer_serializer",
+        "description": "doctorhunt_app.serializers.diagnosis_offer_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.diagnosis_offer_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFeatures",
+        "importPath": "doctorhunt_app.utils.search_features",
+        "description": "doctorhunt_app.utils.search_features",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.utils.search_features",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "importPath": "doctorhunt_app.models",
+        "description": "doctorhunt_app.models",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterSerializer",
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "isExtraImport": true,
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.asgi",
+        "description": "doctorhuntdjango.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "doctorhuntdjango.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-u(rb_^yxtz1#u$bg++u+8^umbs!k^27x+$b+b8$3q8cow6(imv'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-u(rb_^yxtz1#u$bg++u+8^umbs!k^27x+$b+b8$3q8cow6(imv'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    \"rest_framework_simplejwt\",\n    'doctorhunt_app',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'doctorhunt_app.middleware.PrintMiddleware'\n]",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "ROOT_URLCONF = 'doctorhuntdjango.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"doctorhunt_app.User\"\nWSGI_APPLICATION = 'doctorhuntdjango.wsgi.application'\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nREST_FRAMEWORK = {\n    \"DEFAULT_AUTHENTICATION_CLASSES\": (\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ),\n}\n# Database",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'doctorhuntdjango.wsgi.application'\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nREST_FRAMEWORK = {\n    \"DEFAULT_AUTHENTICATION_CLASSES\": (\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ),\n}\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = [BASE_DIR / \"static\"]\nREST_FRAMEWORK = {\n    \"DEFAULT_AUTHENTICATION_CLASSES\": (\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ),\n}\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "STATICFILES_DIRS = [BASE_DIR / \"static\"]\nREST_FRAMEWORK = {\n    \"DEFAULT_AUTHENTICATION_CLASSES\": (\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ),\n}\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    \"DEFAULT_AUTHENTICATION_CLASSES\": (\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ),\n}\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': 'doctorhuntnew',\n        'USER': 'postgres',\n        'PASSWORD': 'nosql',\n        'HOST': 'localhost',  \n        'PORT': '5432',          \n    }\n}",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "OGGING",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "OGGING = {\n    \"version\": 1,\n    \"disable_existing_loggers\": False,\n    \"formatters\": {\n        \"verbose\": {\n            \"format\": \"{levelname} {asctime} {module} {process:d} {thread:d} {message}\",\n            \"style\": \"{\",\n        },\n        \"simple\": {\n            \"format\": \"{levelname} {message}\",",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.settings",
+        "description": "doctorhuntdjango.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "doctorhuntdjango.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.urls",
+        "description": "doctorhuntdjango.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('auth/', include('doctorhunt_app.urls.user_urls')),\n    path('doctors/', include('doctorhunt_app.urls.doctor_urls')),\n    path('patients/', include('doctorhunt_app.urls.patient_urls')),\n    path('medical-records/', include('doctorhunt_app.urls.medical_record_urls')),\n    path('appointments/', include('doctorhunt_app.urls.appointment_urls')),\n    path('diagnosis-offers/', include('doctorhunt_app.urls.diagnosis_offer_urls')),\n    path('doctors-frontend/', include('doctorhunt_app.urls.doctor_frontend_urls')),\n]",
+        "detail": "doctorhuntdjango.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "doctorhuntdjango.wsgi",
+        "description": "doctorhuntdjango.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "doctorhuntdjango.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctorhunt_app.migrations.0001_initial",
+        "description": "doctorhunt_app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "doctorhunt_app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctorhunt_app.migrations.0002_doctor_medicalrecord_patient_medicalrecord_patient_and_more",
+        "description": "doctorhunt_app.migrations.0002_doctor_medicalrecord_patient_medicalrecord_patient_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctorhunt_app', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Doctor',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "doctorhunt_app.migrations.0002_doctor_medicalrecord_patient_medicalrecord_patient_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctorhunt_app.migrations.0003_diagnosisoffer",
+        "description": "doctorhunt_app.migrations.0003_diagnosisoffer",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctorhunt_app', '0002_doctor_medicalrecord_patient_medicalrecord_patient_and_more'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='DiagnosisOffer',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "doctorhunt_app.migrations.0003_diagnosisoffer",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "doctorhunt_app.migrations.0004_remove_patient_medical_history_and_more",
+        "description": "doctorhunt_app.migrations.0004_remove_patient_medical_history_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('doctorhunt_app', '0003_diagnosisoffer'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='patient',\n            name='medical_history',\n        ),\n        migrations.AlterField(",
+        "detail": "doctorhunt_app.migrations.0004_remove_patient_medical_history_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Appointment",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.appointment",
+        "description": "doctorhunt_app.models.appointment",
+        "peekOfCode": "class Appointment(models.Model):\n    patient = models.ForeignKey(Patient, on_delete=models.CASCADE, related_name=\"appointments\")\n    doctor = models.ForeignKey(Doctor, on_delete=models.CASCADE, related_name=\"appointments\")\n    time = models.TimeField()\n    date = models.DateField()\n    location = models.JSONField(default=dict)\n    status = models.CharField(\n        max_length=20,\n        choices=[(\"pending\", \"Pending\"), (\"confirmed\", \"Confirmed\"), (\"completed\", \"Completed\"), (\"cancelled\", \"Cancelled\")],\n        default=\"pending\"",
+        "detail": "doctorhunt_app.models.appointment",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOffer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.diagnosis_offer",
+        "description": "doctorhunt_app.models.diagnosis_offer",
+        "peekOfCode": "class DiagnosisOffer(models.Model):\n    name = models.CharField(max_length=255)\n    age = models.IntegerField()\n    tests_offer = models.IntegerField()\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    services = models.JSONField(default=list)  \n    created_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.name",
+        "detail": "doctorhunt_app.models.diagnosis_offer",
+        "documentation": {}
+    },
+    {
+        "label": "Doctor",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.doctor",
+        "description": "doctorhunt_app.models.doctor",
+        "peekOfCode": "class Doctor(models.Model):\n    name = models.CharField(max_length=255)\n    career = models.CharField(max_length=255)\n    experience = models.CharField(max_length=255)\n    speciality = models.CharField(max_length=255)\n    stories = models.JSONField(default=dict)\n    rating = models.FloatField(default=0)\n    is_favourite = models.BooleanField(default=False)\n    reviews = models.IntegerField(default=0)\n    hour_rate = models.DecimalField(max_digits=10, decimal_places=2)",
+        "detail": "doctorhunt_app.models.doctor",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecord",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.medical_record",
+        "description": "doctorhunt_app.models.medical_record",
+        "peekOfCode": "class MedicalRecord(models.Model):\n    patient = models.ForeignKey(Patient, on_delete=models.CASCADE, related_name=\"medical_records\")\n    prescription = models.TextField()\n    date = models.DateField()\n    def __str__(self):\n        return f\"Medical Record of {self.patient.first_name} {self.patient.last_name} - {self.date}\"",
+        "detail": "doctorhunt_app.models.medical_record",
+        "documentation": {}
+    },
+    {
+        "label": "Patient",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.patient",
+        "description": "doctorhunt_app.models.patient",
+        "peekOfCode": "class Patient(models.Model):\n    first_name = models.CharField(max_length=255)\n    last_name = models.CharField(max_length=255)\n    age = models.IntegerField()\n    gender = models.CharField(max_length=50)\n    location = models.CharField(max_length=255, null=True, blank=True)\n    contact_info = models.JSONField(default=dict)\n    doctors = models.ManyToManyField(\"doctorhunt_app.Doctor\", related_name=\"patients\")\n    status = models.CharField(max_length=50, default=\"Active\")\n    def __str__(self):",
+        "detail": "doctorhunt_app.models.patient",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.user_model",
+        "description": "doctorhunt_app.models.user_model",
+        "peekOfCode": "class UserManager(BaseUserManager):\n    def create_user(self, email, password=None, **extra_fields):\n        if not email:\n            raise ValueError(\"Users must have an email address\")\n        email = self.normalize_email(email)\n        user = self.model(email=email, **extra_fields)\n        user.set_password(password)\n        user.save(using=self._db)\n        return user\n    def create_superuser(self, email, password=None, **extra_fields):",
+        "detail": "doctorhunt_app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "doctorhunt_app.models.user_model",
+        "description": "doctorhunt_app.models.user_model",
+        "peekOfCode": "class User(AbstractBaseUser, PermissionsMixin):\n    email = models.EmailField(unique=True)\n    role = models.CharField(max_length=10, default=\"user\")\n    reset_password_token = models.CharField(max_length=128, blank=True, null=True)\n    is_active = models.BooleanField(default=True)\n    is_staff = models.BooleanField(default=False)\n    last_login = models.DateTimeField(null=True, blank=True)\n    is_superuser = models.BooleanField(default=False) \n    objects = UserManager()\n    USERNAME_FIELD = \"email\"",
+        "detail": "doctorhunt_app.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.appointment_serializer",
+        "description": "doctorhunt_app.serializers.appointment_serializer",
+        "peekOfCode": "class AppointmentSerializer(serializers.ModelSerializer):\n    doctor = DoctorSerializer(read_only=True)  \n    patient = PatientSerializer(read_only=True)  \n    class Meta:\n        model = Appointment\n        fields = '__all__'",
+        "detail": "doctorhunt_app.serializers.appointment_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOfferSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.diagnosis_offer_serializer",
+        "description": "doctorhunt_app.serializers.diagnosis_offer_serializer",
+        "peekOfCode": "class DiagnosisOfferSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = DiagnosisOffer\n        fields = '__all__'",
+        "detail": "doctorhunt_app.serializers.diagnosis_offer_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.doctor_serializer",
+        "description": "doctorhunt_app.serializers.doctor_serializer",
+        "peekOfCode": "class DoctorSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Doctor\n        fields = '__all__'",
+        "detail": "doctorhunt_app.serializers.doctor_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.medical_record_serializer",
+        "description": "doctorhunt_app.serializers.medical_record_serializer",
+        "peekOfCode": "class MedicalRecordSerializer(serializers.ModelSerializer):\n    patient = serializers.SerializerMethodField()\n    class Meta:\n        model = MedicalRecord\n        fields = '__all__'\n    def get_patient(self, obj):\n        Patient = apps.get_model('doctorhunt_app', 'Patient')  \n        PatientSerializer = type(\n            'DynamicPatientSerializer',\n            (serializers.ModelSerializer,),",
+        "detail": "doctorhunt_app.serializers.medical_record_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "PatientSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.patient_serializer",
+        "description": "doctorhunt_app.serializers.patient_serializer",
+        "peekOfCode": "class PatientSerializer(serializers.ModelSerializer):\n    medical_records = MedicalRecordSerializer(many=True, read_only=True)  \n    doctors = DoctorSerializer(many=True, read_only=True)   \n    class Meta:\n        model = Patient\n        fields = '__all__'",
+        "detail": "doctorhunt_app.serializers.patient_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    class Meta:  \n        model = User\n        fields = [\"id\", \"email\", \"role\"]\nclass RegisterSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = [\"email\", \"password\", \"role\"]\n    def create(self, validated_data):",
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "peekOfCode": "class RegisterSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = [\"email\", \"password\", \"role\"]\n    def create(self, validated_data):\n        user = User.objects.create_user(**validated_data)\n        return user\nclass LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()",
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "LoginSerializer",
+        "kind": 6,
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "peekOfCode": "class LoginSerializer(serializers.Serializer):\n    email = serializers.EmailField()\n    password = serializers.CharField(write_only=True)\n    def validate(self, data):\n        email = data.get(\"email\")\n        password = data.get(\"password\")\n        user = User.objects.filter(email=email).first()\n        if user and check_password(password, user.password):\n            return user\n        raise serializers.ValidationError(\"Invalid email or password\")",
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "doctorhunt_app.serializers.user_serializer",
+        "description": "doctorhunt_app.serializers.user_serializer",
+        "peekOfCode": "User = get_user_model()\nclass UserSerializer(serializers.ModelSerializer):\n    class Meta:  \n        model = User\n        fields = [\"id\", \"email\", \"role\"]\nclass RegisterSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = [\"email\", \"password\", \"role\"]",
+        "detail": "doctorhunt_app.serializers.user_serializer",
+        "documentation": {}
+    },
+    {
+        "label": "UserModelTest",
+        "kind": 6,
+        "importPath": "doctorhunt_app.tests.test_user",
+        "description": "doctorhunt_app.tests.test_user",
+        "peekOfCode": "class UserModelTest(TestCase):\n    def test_create_user(self):\n        user = User.objects.create(email=\"test@example.com\", password=\"testpass\")\n        self.assertEqual(user.email, \"test@example.com\")",
+        "detail": "doctorhunt_app.tests.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.appointment_urls",
+        "description": "doctorhunt_app.urls.appointment_urls",
+        "peekOfCode": "urlpatterns = [\n    path('', AppointmentListCreateView.as_view(), name='appointment-list'),\n    path('<int:pk>/', AppointmentDetailView.as_view(), name='appointment-detail'),\n]",
+        "detail": "doctorhunt_app.urls.appointment_urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.diagnosis_offer_urls",
+        "description": "doctorhunt_app.urls.diagnosis_offer_urls",
+        "peekOfCode": "urlpatterns = [\n    path('', DiagnosisOfferListCreateView.as_view(), name='diagnosis-offer-list'),\n    path('<int:pk>/', DiagnosisOfferDetailView.as_view(), name='diagnosis-offer-detail'),\n]",
+        "detail": "doctorhunt_app.urls.diagnosis_offer_urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.doctor_frontend_urls",
+        "description": "doctorhunt_app.urls.doctor_frontend_urls",
+        "peekOfCode": "urlpatterns = [\n    path('list/', doctor_list, name='doctor_list'),\n    path('<int:doctor_id>/', api_doctor_detail, name='doctor_detail'),\n]",
+        "detail": "doctorhunt_app.urls.doctor_frontend_urls",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.doctor_urls",
+        "description": "doctorhunt_app.urls.doctor_urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register(r'doctors', DoctorViewSet, basename='doctors')\nurlpatterns = router.urls",
+        "detail": "doctorhunt_app.urls.doctor_urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.doctor_urls",
+        "description": "doctorhunt_app.urls.doctor_urls",
+        "peekOfCode": "urlpatterns = router.urls",
+        "detail": "doctorhunt_app.urls.doctor_urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.medical_record_urls",
+        "description": "doctorhunt_app.urls.medical_record_urls",
+        "peekOfCode": "urlpatterns = [\n    path('', MedicalRecordListCreateView.as_view(), name='medical-record-list'),\n    path('<int:pk>/', MedicalRecordDetailView.as_view(), name='medical-record-detail'),\n]",
+        "detail": "doctorhunt_app.urls.medical_record_urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.patient_urls",
+        "description": "doctorhunt_app.urls.patient_urls",
+        "peekOfCode": "urlpatterns = [\n    path('', PatientListCreateView.as_view(), name='patient-list'),\n    path('<int:pk>/', PatientDetailView.as_view(), name='patient-detail'),\n]",
+        "detail": "doctorhunt_app.urls.patient_urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "doctorhunt_app.urls.user_urls",
+        "description": "doctorhunt_app.urls.user_urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"register/\", RegisterView.as_view(), name=\"register\"),\n    path(\"login/\", LoginView.as_view(), name=\"login\"),\n    path(\"logout/\", LogoutView.as_view(), name=\"logout\"),\n    path(\"reset-password-request/\", ResetPasswordRequestView.as_view(), name=\"reset-password-request\"),\n    path(\"reset-password/\", ResetPasswordView.as_view(), name=\"reset-password\"),\n]",
+        "detail": "doctorhunt_app.urls.user_urls",
+        "documentation": {}
+    },
+    {
+        "label": "SearchFeatures",
+        "kind": 6,
+        "importPath": "doctorhunt_app.utils.search_features",
+        "description": "doctorhunt_app.utils.search_features",
+        "peekOfCode": "class SearchFeatures:\n    def __init__(self, queryset, query_params):\n        self.queryset = queryset\n        self.query_params = query_params\n    def search(self):\n        keyword = self.query_params.get(\"keyword\", \"\")\n        if keyword:\n            self.queryset = self.queryset.filter(\n                Q(name__icontains=keyword) |\n                Q(career__icontains=keyword) |",
+        "detail": "doctorhunt_app.utils.search_features",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentListCreateView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.appointment_views",
+        "description": "doctorhunt_app.views.appointment_views",
+        "peekOfCode": "class AppointmentListCreateView(APIView):\n    def get(self, request):\n        appointments = Appointment.objects.select_related('doctor', 'patient').all()\n        serializer = AppointmentSerializer(appointments, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def post(self, request):\n        serializer = AppointmentSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)",
+        "detail": "doctorhunt_app.views.appointment_views",
+        "documentation": {}
+    },
+    {
+        "label": "AppointmentDetailView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.appointment_views",
+        "description": "doctorhunt_app.views.appointment_views",
+        "peekOfCode": "class AppointmentDetailView(APIView):\n    def get(self, request, pk):\n        appointment = get_object_or_404(Appointment.objects.select_related('doctor', 'patient'), pk=pk)\n        serializer = AppointmentSerializer(appointment)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def put(self, request, pk):\n        appointment = get_object_or_404(Appointment.objects.select_related('doctor', 'patient'), pk=pk)\n        serializer = AppointmentSerializer(appointment, data=request.data)\n        if serializer.is_valid():\n            serializer.save()",
+        "detail": "doctorhunt_app.views.appointment_views",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOfferListCreateView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.diagnosis_offer_views",
+        "description": "doctorhunt_app.views.diagnosis_offer_views",
+        "peekOfCode": "class DiagnosisOfferListCreateView(generics.ListCreateAPIView):\n    queryset = DiagnosisOffer.objects.all()\n    serializer_class = DiagnosisOfferSerializer\nclass DiagnosisOfferDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = DiagnosisOffer.objects.all()\n    serializer_class = DiagnosisOfferSerializer",
+        "detail": "doctorhunt_app.views.diagnosis_offer_views",
+        "documentation": {}
+    },
+    {
+        "label": "DiagnosisOfferDetailView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.diagnosis_offer_views",
+        "description": "doctorhunt_app.views.diagnosis_offer_views",
+        "peekOfCode": "class DiagnosisOfferDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = DiagnosisOffer.objects.all()\n    serializer_class = DiagnosisOfferSerializer",
+        "detail": "doctorhunt_app.views.diagnosis_offer_views",
+        "documentation": {}
+    },
+    {
+        "label": "doctor_list",
+        "kind": 2,
+        "importPath": "doctorhunt_app.views.doctor_frontend",
+        "description": "doctorhunt_app.views.doctor_frontend",
+        "peekOfCode": "def doctor_list(request):\n    response = requests.get(API_URL)\n    doctors = response.json().get('doctors', [])\n    return render(request, 'doctors_list.html', {'doctors': doctors})\ndef api_doctor_detail(request, doctor_id):\n    try:\n        doctor = Doctor.objects.get(id=doctor_id)\n        doctor_data = {'id': doctor.id, 'name': doctor.name}\n        return render(request, 'doctor_detail.html', {'doctor': doctor_data})\n    except Doctor.DoesNotExist:",
+        "detail": "doctorhunt_app.views.doctor_frontend",
+        "documentation": {}
+    },
+    {
+        "label": "api_doctor_detail",
+        "kind": 2,
+        "importPath": "doctorhunt_app.views.doctor_frontend",
+        "description": "doctorhunt_app.views.doctor_frontend",
+        "peekOfCode": "def api_doctor_detail(request, doctor_id):\n    try:\n        doctor = Doctor.objects.get(id=doctor_id)\n        doctor_data = {'id': doctor.id, 'name': doctor.name}\n        return render(request, 'doctor_detail.html', {'doctor': doctor_data})\n    except Doctor.DoesNotExist:\n        return JsonResponse({'error': 'Doctor not found'}, status=404)",
+        "detail": "doctorhunt_app.views.doctor_frontend",
+        "documentation": {}
+    },
+    {
+        "label": "API_URL",
+        "kind": 5,
+        "importPath": "doctorhunt_app.views.doctor_frontend",
+        "description": "doctorhunt_app.views.doctor_frontend",
+        "peekOfCode": "API_URL = \"http://127.0.0.1:8000/doctors/doctors\"\ndef doctor_list(request):\n    response = requests.get(API_URL)\n    doctors = response.json().get('doctors', [])\n    return render(request, 'doctors_list.html', {'doctors': doctors})\ndef api_doctor_detail(request, doctor_id):\n    try:\n        doctor = Doctor.objects.get(id=doctor_id)\n        doctor_data = {'id': doctor.id, 'name': doctor.name}\n        return render(request, 'doctor_detail.html', {'doctor': doctor_data})",
+        "detail": "doctorhunt_app.views.doctor_frontend",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorViewSet",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.doctor_views",
+        "description": "doctorhunt_app.views.doctor_views",
+        "peekOfCode": "class DoctorViewSet(viewsets.ViewSet):\n    def list(self, request):\n        \"\"\"Get all doctors with search, filter, and pagination.\"\"\"\n        doctors = Doctor.objects.all()\n        search_feature = SearchFeatures(doctors, request.GET)\n        doctors = search_feature.search().filter().pagination(result_per_page=10).get_queryset()\n        serializer = DoctorSerializer(doctors, many=True)\n        return Response({\n            \"success\": True,\n            \"message\": \"Doctors retrieved successfully\",",
+        "detail": "doctorhunt_app.views.doctor_views",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordListCreateView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.medical_record_views",
+        "description": "doctorhunt_app.views.medical_record_views",
+        "peekOfCode": "class MedicalRecordListCreateView(APIView):\n    def get(self, request):\n        records = MedicalRecord.objects.select_related(\"patient\").all()\n        serializer = MedicalRecordSerializer(records, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def post(self, request):\n        serializer = MedicalRecordSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)",
+        "detail": "doctorhunt_app.views.medical_record_views",
+        "documentation": {}
+    },
+    {
+        "label": "MedicalRecordDetailView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.medical_record_views",
+        "description": "doctorhunt_app.views.medical_record_views",
+        "peekOfCode": "class MedicalRecordDetailView(APIView):\n    def get(self, request, pk):\n        record = get_object_or_404(MedicalRecord.select_related('patient'), pk=pk)\n        serializer = MedicalRecordSerializer(record)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def put(self, request, pk):\n        record = get_object_or_404(MedicalRecord, pk=pk)\n        serializer = MedicalRecordSerializer(record, data=request.data)\n        if serializer.is_valid():\n            serializer.save()",
+        "detail": "doctorhunt_app.views.medical_record_views",
+        "documentation": {}
+    },
+    {
+        "label": "PatientListCreateView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.patient_views",
+        "description": "doctorhunt_app.views.patient_views",
+        "peekOfCode": "class PatientListCreateView(APIView):\n    def get(self, request):\n        patients = Patient.objects.prefetch_related(\"medical_records\", \"doctors\").all()\n        serializer = PatientSerializer(patients, many=True)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def post(self, request):\n        serializer = PatientSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)",
+        "detail": "doctorhunt_app.views.patient_views",
+        "documentation": {}
+    },
+    {
+        "label": "PatientDetailView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.patient_views",
+        "description": "doctorhunt_app.views.patient_views",
+        "peekOfCode": "class PatientDetailView(APIView):\n    def get(self, request, pk):\n        patient = get_object_or_404(Patient.objects.prefetch_related(\"medical_records\", \"doctors\"), pk=pk)\n        serializer = PatientSerializer(patient)\n        return Response(serializer.data, status=status.HTTP_200_OK)\n    def put(self, request, pk):\n        patient = get_object_or_404(Patient, pk=pk)\n        serializer = PatientSerializer(patient, data=request.data)\n        if serializer.is_valid():\n            serializer.save()",
+        "detail": "doctorhunt_app.views.patient_views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "peekOfCode": "class RegisterView(generics.CreateAPIView):\n    serializer_class = RegisterSerializer\n    permission_classes = [AllowAny]\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        user = serializer.save()\n        return Response({\"message\": \"User registered successfully\"}, status=status.HTTP_201_CREATED)\nclass LoginView(APIView):\n    permission_classes = [AllowAny]",
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "peekOfCode": "class LoginView(APIView):\n    permission_classes = [AllowAny]\n    def post(self, request):\n        serializer = LoginSerializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        user = serializer.validated_data\n        refresh = RefreshToken.for_user(user)\n        return Response({\n            \"token\": str(refresh.access_token),\n            \"refresh\": str(refresh),",
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "peekOfCode": "class LogoutView(APIView):\n    permission_classes = [IsAuthenticated]\n    def post(self, request):\n        request.auth = None\n        return Response({\"message\": \"Logged out successfully\"}, status=status.HTTP_200_OK)\nclass ResetPasswordRequestView(APIView):\n    permission_classes = [AllowAny]\n    def post(self, request):\n        email = request.data.get(\"email\")\n        user = User.objects.filter(email=email).first()",
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordRequestView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "peekOfCode": "class ResetPasswordRequestView(APIView):\n    permission_classes = [AllowAny]\n    def post(self, request):\n        email = request.data.get(\"email\")\n        user = User.objects.filter(email=email).first()\n        if user:\n            user.generate_reset_token()\n            reset_link = f\"http://localhost:3000/reset-password?token={user.reset_password_token}&email={email}\"\n            # Send email function (to be implemented)\n            return Response({\"message\": \"Password reset link sent\"}, status=status.HTTP_200_OK)",
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "ResetPasswordView",
+        "kind": 6,
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "peekOfCode": "class ResetPasswordView(APIView):\n    permission_classes = [AllowAny]\n    def post(self, request):\n        email = request.data.get(\"email\")\n        token = request.data.get(\"token\")\n        password = request.data.get(\"password\")\n        user = User.objects.filter(email=email, reset_password_token=token).first()\n        if user:\n            user.set_password(password)\n            user.reset_password_token = None",
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 5,
+        "importPath": "doctorhunt_app.views.user_view",
+        "description": "doctorhunt_app.views.user_view",
+        "peekOfCode": "User = get_user_model()\nclass RegisterView(generics.CreateAPIView):\n    serializer_class = RegisterSerializer\n    permission_classes = [AllowAny]\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        user = serializer.save()\n        return Response({\"message\": \"User registered successfully\"}, status=status.HTTP_201_CREATED)\nclass LoginView(APIView):",
+        "detail": "doctorhunt_app.views.user_view",
+        "documentation": {}
+    },
+    {
+        "label": "DoctorHuntAppConfig",
+        "kind": 6,
+        "importPath": "doctorhunt_app.apps",
+        "description": "doctorhunt_app.apps",
+        "peekOfCode": "class DoctorHuntAppConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"doctorhunt_app\"",
+        "detail": "doctorhunt_app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "PrintMiddleware",
+        "kind": 6,
+        "importPath": "doctorhunt_app.middleware",
+        "description": "doctorhunt_app.middleware",
+        "peekOfCode": "class PrintMiddleware:\n    def __init__(self, get_response):\n        self.get_response = get_response\n    def __call__(self, request):\n        print(f\"📢 Request URL: {request.path} | Method: {request.method}\")\n        return self.get_response(request)",
+        "detail": "doctorhunt_app.middleware",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'doctorhuntdjango.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
